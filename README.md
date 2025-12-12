@@ -17,8 +17,8 @@ At Infosys:
 - **KYC/AML integrations**, to improve onboarding automation and reduce verification failures.
 - **Risk Scorecards & Dashboards**, that turn unstructured data into usable insights for decision-making.
 
-  ### **2. Project & Delivery Leadership**
-  Running the "engine room" of execution:
-  - Lead **Agile ceremonies** (scrums, grooming, retrospectives, sprint planning).
-  - Maintain **Project Documentation**, roadmaps, scope changes, design decisions, progress updates.
-  - Balance constraints from **Engineering, Operations, Compliance, and Stakeholders** to maintain realistic, aligned delivery.
+### **2. Project & Delivery Leadership**
+Running the "engine room" of execution:
+- Lead **Agile ceremonies** (scrums, grooming, retrospectives, sprint planning).
+- Maintain **Project Documentation**, roadmaps, scope changes, design decisions, progress updates.
+- Balance constraints from **Engineering, Operations, Compliance, and Stakeholders** to maintain realistic, aligned delivery.
